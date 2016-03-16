@@ -1,7 +1,7 @@
 name: GodSpeed
 favicon: null
-layout_spectrum: 0.662437908584252
-typography_spectrum: 0.7113012778572738
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7130345413461328
-  lightness: 0.08969196816906333
-  saturation: 0.32782234577462077
-  rhythmicContrast: 0.6161080372985452
+    - '#030d0f'
+    - '#fbdac7'
+    - '#283637'
+    - '#e4a187'
+    - '#b74e4b'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
